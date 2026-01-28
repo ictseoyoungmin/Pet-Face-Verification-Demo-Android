@@ -6,7 +6,7 @@ A prototype Android application for pet face verification using face embedding v
 
 <div align="center">
   <video width="460" controls>
-    <source src="https://raw.githubusercontent.com/ictseoyoungmin/Pet-Face-Verification-Demo-Android/main/toberm/video_reduce_res/test.mp4" type="video/mp4">
+    <source src="https://raw.githubusercontent.com/ictseoyoungmin/Pet-Face-Verification-Demo-Android/main/PetFaceUI_demo_460.mp4" type="video/mp4">
   </video>
 </div>
 
