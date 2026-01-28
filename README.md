@@ -5,8 +5,7 @@ A prototype Android application for pet face verification using face embedding v
 ## Demo
 
 
-https://github.com/user-attachments/assets/a8c41e12-3f1c-462a-832d-50ef43431770
-
+https://github.com/user-attachments/assets/268a4133-ed7d-41d9-a979-70d52693d771
 
 ## Overview
 
