@@ -7,6 +7,10 @@ A prototype Android application for pet face verification using face embedding v
 https://github.com/user-attachments/assets/2e5b232f-c1f0-4c22-85e5-50c569b9dfbd
 
 
+https://github.com/user-attachments/assets/d8f22c99-d5d7-4609-b64f-50a53aba8e28
+
+
+
 
 ## Overview
 
@@ -33,7 +37,7 @@ This is a minimal prototype implementation of a pet face verification system. Th
 - **Platform**: Android
 - **Language**: Kotlin
 - **IDE**: Android Studio
-- **Device**: Galaxy 25 Ultra 
+- **Device**: Galaxy S25 Ultra / S20 Ultra   
 
 ## Architecture
 
